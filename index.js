@@ -1,7 +1,7 @@
 var readlineSync = require('readline-sync');
 const axios = require('axios');
 
-console.log("You are using ez matheletics cheats made by eyaad"/1)
+console.log("You are using ez matheletics cheats made by eyaad")
 
 // Wait for user's response.
 var secret = readlineSync.question('Mathletics session_usertokken: ');
